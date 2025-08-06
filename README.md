@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jackiebharathi
+# 👋 Hi, I’m Jayabharathi
 ## 🧪 QA Engineer | Manual + Automation + API Testing | 2+ YOE
 
 ### 🧰 Skills

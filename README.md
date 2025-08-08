@@ -9,5 +9,6 @@
 - Gen AI for QA: GitHub Copilot | Prompt Engineering | Testim | MCPs
 
 ### 📂 Portfolio Projects
-1. Web Automation Testing - OpenCart(https://github.com/jackiebharathi/Opencart.git)
-2. API Automation Testing – RestAssured | PetStore (https://github.com/jackiebharathi/PetStoreAutomation_RestAssuredProject.git)
+1. Web Automation Testing - Selenium Java           | OpenCart (https://github.com/jackiebharathi/Opencart.git)
+2. API Automation Testing – RestAssured             | PetStore (https://github.com/jackiebharathi/PetStoreAutomation_RestAssuredProject.git)
+3. Web Automation Testing - Playwright(MCP+Copilot) | Opencart (https://github.com/jackiebharathi/opencart-playwright-mcp-copilot.git)
